@@ -44,3 +44,9 @@ Learnify is designed to provide an exceptional learning experience, with a focus
 The platform's clean design and intuitive interface make it easy for users to navigate and engage with course content.
 
 # output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/583861ad-3389-4338-a083-65b3480a99ea" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9784b27-dd7d-468a-9824-87c2c7665a1f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9f3b6a4c-4442-45e1-94dc-91d660883bf9" />
